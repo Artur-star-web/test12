@@ -6,11 +6,11 @@
     "type": "object",
     "additionalProperties": false,
     "required": [
-      "id",
-      "name",
-      "number",
-      "balance",
-      "currency"
+      "id", "1",
+      "name", "Текущий счёт",
+      "number", "•• 0668",
+      "balance", "992821429",
+      "currency", "RUB"
     ],
     "properties": {
       "id": {
