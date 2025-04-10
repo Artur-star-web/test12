@@ -6,11 +6,11 @@
     "type": "object",
     "additionalProperties": false,
     "required": [
-      "id",
+      "id", 
       "name",
       "number",
       "balance",
-      "currency", "RUR"
+      "currency", "RUB"
     ],
     "properties": {
       "id": {
